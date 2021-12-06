@@ -1,0 +1,3 @@
+[submodule "pixel_character_generator"]
+	path = pixel_character_generator
+	url = https://github.com/AgaMiko/pixel_character_generator.git
